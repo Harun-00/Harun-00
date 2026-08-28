@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hassium</h1>
+<h1 align="center">Hi 👋 I'm Harun</h1>
 <p align="center">
   <em>Cybersecurity student · Red Team enthusiast · Arch Linux tinkerer</em>
 </p>
