@@ -50,15 +50,6 @@ I plan to continue contributing to open-source projects as I learn.
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
   
-
-
-## Current Goals
-
-- Learn Reverse Engineering
-- Learn C programming
-- Build useful Linux projects
-- Prepare for university
-
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&center=true&width=435&lines=Thanks+for+visiting!+%F0%9F%99%82)](https://git.io/typing-svg)
